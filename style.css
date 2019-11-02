@@ -3,7 +3,7 @@
     grid-gap: 10px;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 1fr;
-    max-width: 1500px;
+  
     font-size: 0;
   }
 
@@ -56,10 +56,8 @@
 
       .text-box-one {
         position: absolute;
-          top: 20px;
-          margin-left: 37px;
-          left: 0;
-          right: 0;
+          top: 10px;
+          left: 50px;
        
     }
 
@@ -91,10 +89,8 @@
 
       .text-box-two {
         position: absolute;
-        top: 0px;
-        margin-left: 851px;
-        left: 0;
-        right: 0;
+        top: 10px;
+        right: 92px;
       
      
       }
@@ -129,10 +125,8 @@
     .text-box-three {
 
       position: absolute;
-      top: 530px;
-      margin-left: 37px;
-      left: 0;
-      right: 0;
+      top: 104px;
+      left: 30px;
 
     }
     
@@ -157,10 +151,8 @@
     .text-box-four {
 
       position: absolute;
-      top: 851px;
-      margin-left: 980px;
-      left: 0;
-      right: 0;
+      top: 371px;
+      right: 35px;
     
 
     }
@@ -194,10 +186,8 @@
       .text-box-five {
 
         position: absolute;
-        top: 1051px;
-        margin-left: 37px;
-        left: 0;
-        right: 0;
+        top: 10px;
+        left: 6px;
   
 
       }
@@ -231,10 +221,8 @@
       .text-box-six{
 
         position: absolute;
-        top: 1351px;
-        margin-left: 780px;
-        left: 0;
-        right: 0;
+        top: 370px;
+        left: 25px;
       
 
       }
