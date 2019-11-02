@@ -56,8 +56,8 @@
 
       .text-box-one {
         position: absolute;
-          top: 10px;
-          left: 50px;
+          top: 49px;
+          left: 78px;
        
     }
 
@@ -65,14 +65,12 @@
         display: block;
         color: black;
         max-width: 400px;
-        margin: 0rem 37px;
-        margin-top: 20px;
-        padding: 5px 0px;
+        padding: 10px;
         text-align: center;
         font-family: "Dekko", cursive;
         text-transform: uppercase;
         font-size: 14px;
-        letter-spacing: 5px;
+        letter-spacing: 3px;
         background-color: white;
         border: 5px solid #000;
         
@@ -89,8 +87,8 @@
 
       .text-box-two {
         position: absolute;
-        top: 10px;
-        right: 92px;
+        top: 42px;
+        right: 182px;
       
      
       }
@@ -99,14 +97,12 @@
         display: block;
         color: black;
         max-width: 397px;
-        margin: 0rem 30px;
-        margin-top: 40px;
-        padding: 5px 0px;
+        padding: 10px;
         text-align: center;
         font-family: "Dekko", cursive;
         text-transform: uppercase;
         font-size: 14px;
-        letter-spacing: 5px;
+        letter-spacing: 3px;
         background-color: white;
         border: 5px solid #000;
       }
@@ -125,8 +121,8 @@
     .text-box-three {
 
       position: absolute;
-      top: 104px;
-      left: 30px;
+      top: 102px;
+      left: 80px;
 
     }
     
@@ -135,14 +131,12 @@
       display: block;
         color: black;
         max-width: 400px;
-        margin: 6rem 59px;
-        margin-top: 20px;
-        padding: 5px 0px;
+        padding: 10px;
         text-align: center;
         font-family: "Dekko", cursive;
         text-transform: uppercase;
         font-size: 14px;
-        letter-spacing: 5px;
+        letter-spacing: 3px;
         background-color: white;
         border: 5px solid #000;
 
@@ -151,8 +145,8 @@
     .text-box-four {
 
       position: absolute;
-      top: 371px;
-      right: 35px;
+      top: 381px;
+      right: 95px;
     
 
     }
@@ -162,14 +156,12 @@
       display: block;
       color: black;
       max-width: 400px;
-      margin: 0rem 37px;
-      margin-top: 20px;
-      padding: 5px 0px;
+      padding: 10px;
       text-align: center;
       font-family: "Dekko", cursive;
       text-transform: uppercase;
       font-size: 14px;
-      letter-spacing: 5px;
+      letter-spacing: 3px;
       background-color: white;
       border: 5px solid #000;
 
@@ -186,8 +178,8 @@
       .text-box-five {
 
         position: absolute;
-        top: 10px;
-        left: 6px;
+        top: 253px;
+        right: 20px;
   
 
       }
@@ -197,14 +189,12 @@
         display: block;
         color: black;
         max-width: 216px;
-        margin: 0rem 424px;
-        margin-top: 197px;
-        padding: 5px 0px;
+        padding: 10px;
         text-align: center;
         font-family: "Dekko", cursive;
         text-transform: uppercase;
         font-size: 14px;
-        letter-spacing: 5px;
+        letter-spacing: 3px;
         background-color: white;
         border: 5px solid #000;
 
@@ -221,7 +211,7 @@
       .text-box-six{
 
         position: absolute;
-        top: 370px;
+        top: 380px;
         left: 25px;
       
 
@@ -232,14 +222,12 @@
         display: block;
         color: black;
         max-width: 700px;
-        margin: 0rem 37px;
-        margin-top: 20px;
-        padding: 5px 0px;
+        padding: 10px;
         text-align: center;
         font-family: "Dekko", cursive;
         text-transform: uppercase;
         font-size: 14px;
-        letter-spacing: 5px;
+        letter-spacing: 3px;
         background-color: white;
         border: 5px solid #000;
 
